@@ -1,12 +1,21 @@
 # Installation Requirements:
-python 3.1
+- python 3.1
 
 # Python Requirements
-pygame
+- pygame
+
+- numpy
 
 # To play/run:
 VSCode will be the easiest way to launch.
-Otherwise, if your environment variables are 
+
+Otherwise, if your environment variables are
 configured correctly:
-> cd {game-directory} &&
-python app.py
+
+> cd {game-directory}
+
+> python app.py
+
+(or) 
+
+>  python3 app.py
