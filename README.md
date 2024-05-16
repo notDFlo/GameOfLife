@@ -8,5 +8,5 @@ pygame
 VSCode will be the easiest way to launch.
 Otherwise, if your environment variables are 
 configured correctly:
-> cd {game-directory}
+> cd {game-directory} &&
 python app.py
