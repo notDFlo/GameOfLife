@@ -1,5 +1,5 @@
 # Installation Requirements:
-python 3.1 required
+python 3.1
 
 # Python Requirements
 pygame
