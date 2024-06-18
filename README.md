@@ -11,11 +11,15 @@
 
 # To play/run:
 VSCode will be the easiest way to launch.
+> Open the root folder in VSCode
+> Run or Debug on app.py
+> feel free to adjust settings (spawn more/less initial clumps etc)
+
 
 Otherwise, if your environment variables are
 configured correctly:
 
-> cd <path/to/game-directory}
+> cd <path/to/game_directory>
 
 > python app.py
 
